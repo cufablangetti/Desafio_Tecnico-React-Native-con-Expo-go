@@ -44,13 +44,15 @@ npm install expo
 ```bash
 npm run dev
 ```
-<!-- yo lo hago con este de abajo -->
+- yo lo hago con este de abajo: 
 ```bash
 npx expo start 
 ```
 
 4. Abre la aplicación:
-   - 📱 iOS/Android: Escanea el código QR con la app Expo Go  <!-- Una vez que inicies la aplicacion te descargas Expo go en tu celular, y escaneas el codigo qr que te sale en la terminal -->
+
+- Una vez que inicies la aplicacion te descargas Expo go en tu celular, y escaneas el codigo qr que te sale en la terminal:
+   - 📱 iOS/Android: Escanea el código QR con la app Expo Go  
 
 
 ## 📱 Pantallas Principales
