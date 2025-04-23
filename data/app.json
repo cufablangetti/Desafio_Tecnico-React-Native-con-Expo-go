@@ -1,0 +1,112 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "name": "Almacén",
+      "icon": "package",
+      "color": "#D4E6F1"
+    },
+    {
+      "id": "2", 
+      "name": "Frutas y Verduras",
+      "icon": "banana",
+      "color": "#FADBD8"
+    },
+    {
+      "id": "3",
+      "name": "Lácteos",
+      "icon": "drop",
+      "color": "#D5F5E3"
+    },
+    {
+      "id": "4",
+      "name": "Carnes",
+      "icon": "beef",
+      "color": "#F5EEF8"
+    },
+    {
+      "id": "5",
+      "name": "Panadería",
+      "icon": "croissant",
+      "color": "#FCF3CF"
+    }
+  ],
+  "tiendas": [
+    {
+      "id": "1",
+      "nombre": "Supermercado Central",
+      "direccion": "Calle Principal #123",
+      "imagen": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.5,
+      "distancia": "1.2 km",
+      "categoria": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Mercado Familiar",
+      "direccion": "Av. del Sol #456",
+      "imagen": "https://images.pexels.com/photos/3962285/pexels-photo-3962285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.2,
+      "distancia": "2.5 km",
+      "categoria": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "Super Express",
+      "direccion": "Plaza Mayor #789",
+      "imagen": "https://images.pexels.com/photos/2733918/pexels-photo-2733918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.7,
+      "distancia": "0.8 km",
+      "categoria": "3"
+    },
+    {
+      "id": "4",
+      "nombre": "Mercado Fresco",
+      "direccion": "Calle Nueva #321",
+      "imagen": "https://images.pexels.com/photos/1833336/pexels-photo-1833336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rating": 4.0,
+      "distancia": "3.1 km",
+      "categoria": "4"
+    }
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Leche Entera",
+      "descripcion": "Leche entera pasteurizada de alta calidad, 1 litro",
+      "precio": 1.20,
+      "imagen": "https://images.pexels.com/photos/2419278/pexels-photo-2419278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "3",
+      "enOferta": true,
+      "descuento": 10
+    },
+    {
+      "id": "2",
+      "nombre": "Pan Integral",
+      "descripcion": "Pan integral recién horneado, 500g",
+      "precio": 2.50,
+      "imagen": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "5",
+      "enOferta": false
+    },
+    {
+      "id": "3",
+      "nombre": "Manzanas",
+      "descripcion": "Manzanas rojas frescas, pack de 1kg",
+      "precio": 2.20,
+      "imagen": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "2",
+      "enOferta": true,
+      "descuento": 15
+    },
+    {
+      "id": "4",
+      "nombre": "Carne Molida",
+      "descripcion": "Carne molida magra, 500g",
+      "precio": 4.50,
+      "imagen": "https://images.pexels.com/photos/618775/pexels-photo-618775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categoria": "4",
+      "enOferta": false
+    }
+  ]
+}
