@@ -26,11 +26,9 @@ Una aplicación de supermercado moderna construida con React Native y Expo, que 
 
 ## 🛠️ Instalación
 
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/supermercado-app.git
-cd supermercado-app
-```
+1. Descargar el zip.
+  - Extraerlo
+  - Abrirlo con Visual Studios Code
 
 2. Instala las dependencias:
 ```bash
